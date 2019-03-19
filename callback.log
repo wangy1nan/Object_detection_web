@@ -1,0 +1,5 @@
+2018-12-26 14:35:41,258 - F:/web_OD/object_detcetion_test/server_test.py[line:176] - ERROR: Cannot connect to host 10.104.2.89:8080 ssl:None [Connect call failed ('10.104.2.89', 8080)]
+2018-12-26 14:45:25,715 - F:/web_OD/object_detcetion_test/server_test.py[line:176] - ERROR: [WinError 10053] 您的主机中的软件中止了一个已建立的连接。
+2018-12-26 14:45:45,734 - F:/web_OD/object_detcetion_test/server_test.py[line:176] - ERROR: [WinError 10053] 您的主机中的软件中止了一个已建立的连接。
+2018-12-26 14:45:45,734 - F:/web_OD/object_detcetion_test/server_test.py[line:176] - ERROR: [WinError 10053] 您的主机中的软件中止了一个已建立的连接。
+2018-12-26 16:02:44,661 - F:/web_OD/object_detcetion_test/server_test.py[line:176] - ERROR: [WinError 10053] 您的主机中的软件中止了一个已建立的连接。

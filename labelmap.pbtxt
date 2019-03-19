@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'motocrane'
+}
+
+item {
+  id: 2
+  name: 'towercrane'
+}
+
+item {
+  id: 3
+  name: 'digger'
+}
+
+item {
+  id: 4
+  name: 'pushdozer'
+}
+
+item {
+  id: 5
+  name: 'smog'
+}
+
+item {
+  id: 6
+  name: 'other'
+}
